@@ -1,2 +1,2 @@
-cantidad = 1;platillo = sopa;precio = 20;
-cantidad = 1;platillo = postre;precio = 20;
+platillo = 1;platillo = sopa;platillo = 20;
+platillo = 1;platillo = postre;platillo = 20;
