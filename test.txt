@@ -1,0 +1,12 @@
+(
+{
+cantidad = 1;
+platillo = sopa;
+precio = 20;
+},
+{
+cantidad = 1;
+platillo = postre;
+precio = 20;
+}
+)
