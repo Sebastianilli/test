@@ -1,3 +1,4 @@
+código = 993007;nombre = La Mexicana;venta = 382;latitud = 19.57702459;longitud = -99.22818114;calle = Hidalgo; numero = 3;colonia = San Mateo Tecoloapan;cp = 52920; ciudad = Atizapán de Zaragoza;estado = México;entreCalle = Avenida Juárez;y = 2 de abril;
 cantidad = 1;platillo = elaborado;precio = 20;
 cantidad = 1;platillo = postre;precio = 20;
 cantidad = 1;platillo = enchiladas;precio = 20;
